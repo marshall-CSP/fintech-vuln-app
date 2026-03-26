@@ -1,0 +1,6 @@
+﻿{
+  ""transactions"": [
+    { ""from"": ""admin"", ""to"": ""user1"", ""amount"": 5000 },
+    { ""from"": ""user1"", ""to"": ""admin"", ""amount"": 200 }
+  ]
+}
